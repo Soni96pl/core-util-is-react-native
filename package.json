@@ -1,5 +1,5 @@
 {
-  "name": "core-util-is",
+  "name": "core-util-is-react-native",
   "version": "1.0.2",
   "description": "The `util.is*` functions introduced in Node v0.12.",
   "main": "lib/util.js",
@@ -21,7 +21,7 @@
   "author": "Isaac Z. Schlueter <i@izs.me> (http://blog.izs.me/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/isaacs/core-util-is/issues"
+    "url": "https://github.com/Soni96pl/core-util-is-react-native/issues"
   },
   "scripts": {
     "test": "tap test.js"
